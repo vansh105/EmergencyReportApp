@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">W Safe</string>
+    <string name="add_new_contact_new">Add New Contact</string>
+    <string name="delete_contact">Delete contact</string>
+    <string name="view_contacts">View Contacts</string>
+    <string name="edit_sos_message">Edit SOS Message</string>
+
 </resources>
